@@ -1,0 +1,5 @@
+{
+    "configuration": "bootloader=no_bootloader,eeprom=keep,baudrate=default,pinout=standard,BOD=2v7,LTO=Os_flto,clock=16MHz_external",
+    "board": "MightyCore:avr:16",
+    "sketch": "LoadCellmain.ino"
+}
