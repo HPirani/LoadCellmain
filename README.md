@@ -16,3 +16,7 @@ I Used These Libraries:
 HT1621 Library : https://github.com/valerionew/ht1621-7-seg
 
 HX711 Library : https://github.com/bogde/HX711
+
+You need To Calibrate Loadcell and change value in ``` constexpr auto DefaultCalibrationFactor = 1679.25f; ``` at line 44.
+
+upload  ```LoadCell_Calibrating.ino``` sketch and calibrate your loadcell. sketch owner: https://RandomNerdTutorials.com/arduino-load-cell-hx711/
