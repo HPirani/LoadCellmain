@@ -1,5 +1,5 @@
-LoadCell
-➡️ Reverse Engineering 'AND' Lab weighting device with HT1621 LCD
+
+# ➡️ Reverse Engineering 'AND' Lab weighting device with HT1621 LCD
 
 ✔️ I Used AVR Atmega16 For RePlacing Withy Its MicroController.
 
