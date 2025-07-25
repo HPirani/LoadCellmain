@@ -10,3 +10,9 @@
 ✔️ the HT1621 Used In Had Different Memory Mapping than public ones and i Forced To Create Custom Digit Buffer for it.
 
 ✔️ Its Fully functionable and working.
+
+I Used These Libraries:
+
+HT1621 Library : https://github.com/valerionew/ht1621-7-seg
+
+HX711 Library : https://github.com/bogde/HX711
